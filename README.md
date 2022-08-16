@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ttarikose
-- 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m hungry to learn tech skills.
+- 🌱 I’m currently working on Back-End Projects
+- 💞️ I’m available to collaborate on projects.
 - 📫 How to reach me tarikkose0164@gmail.com
 
 <!---
