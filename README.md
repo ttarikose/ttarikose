@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ttarikose
-- 👀 I’m hungry to learn tech skills.
-- 🌱 I’m currently working on Back-End Projects
-- 💞️ I’m available to collaborate on projects.
-- 📫 How to reach me tarikkose0164@gmail.com
+-  Hello There I’m @ttarikose
+-  I’m passion about learning tech skills.
+-  I’m currently working on Back-End Projects
+-  I’m available to collaborate on projects. 
+-  You can reach me from my mail account using my accounts below :
+   mail : tarikkose0164@gmail.com 
+   LinkedIn : https://www.linkedin.com/in/ttarikose/
+
 
 <!---
 ttarikose/ttarikose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
