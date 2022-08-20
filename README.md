@@ -3,8 +3,8 @@
 -  I’m currently working on Back-End Projects
 -  I’m available to collaborate on projects. 
 -  You can reach me from my mail account using my accounts below :
-   mail : tarikkose0164@gmail.com 
-   LinkedIn : https://www.linkedin.com/in/ttarikose/
+-  Mail : tarikkose0164@gmail.com 
+-  LinkedIn : https://www.linkedin.com/in/ttarikose/
 
 
 <!---
