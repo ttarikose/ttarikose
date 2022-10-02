@@ -1,5 +1,5 @@
 -  Hello There I’m @ttarikose
--  I’m passion about learning tech skills.
+-  I'm passionate about programming and technology.
 -  I'm living in Warsaw / Poland.
 -  I’m currently working on Back-End Projects.
 -  I’m available to collaborate on projects. 
