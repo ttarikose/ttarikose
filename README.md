@@ -1,10 +1,12 @@
 -  Hello There I’m @ttarikose
 -  I'm passionate about programming and technology.
--  I'm living in Warsaw / Poland.
--  I’m currently working on Back-End Projects.
+-  Based in Warsaw / Poland.
+-  Currently interested in Full Stack Software Development.
+-  I use React.js and Spring Boot.
 -  I’m available to collaborate on projects. 
 -  You can reach me from my mail account using my accounts below :
--  Mail : tarikkose0164@gmail.com 
+-  Mail : fullstacktarik@gmail.com
+-  Visit https://creamycode.com 
 -  LinkedIn : https://www.linkedin.com/in/ttarikose/
 
 
