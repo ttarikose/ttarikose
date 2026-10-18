@@ -6,7 +6,6 @@
 -  I’m available to collaborate on projects. 
 -  You can reach me from my mail account using my accounts below :
 -  Mail : fullstacktarik@gmail.com
--  Visit https://creamycode.com 
 -  LinkedIn : https://www.linkedin.com/in/ttarikose/
 
 
